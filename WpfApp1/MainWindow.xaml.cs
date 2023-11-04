@@ -23,7 +23,11 @@ namespace WpfApp1
         public MainWindow()
         {
             InitializeComponent();
-            string a = "0"; //Repo2
+
+            string b = "0"; //Repo2
+
+            int a = 0;//Repo1
+
         }
     }
 }
